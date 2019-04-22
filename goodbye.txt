@@ -1,0 +1,3 @@
+print("goodbye1")
+print("goodbye2")
+print("goodbye3")
